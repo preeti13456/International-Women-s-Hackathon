@@ -1,5 +1,6 @@
 # International-Women-s-Hackathon
 HackerEarth 2019
+
 We will device a mechanism by which the banks can evaluate the potential risk before extending loans to clients based on many features and investment pattern. In addition, we would help facilitate online credit approval for clients.
 
 Features/Applications :
